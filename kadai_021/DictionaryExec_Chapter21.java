@@ -11,8 +11,6 @@ public class DictionaryExec_Chapter21 {
         String[] words = {"apple", "banana", "grape", "orange"};
 
         // 繰り返し処理で英単語を調べる
-        for (String word : words) {
-            dictionary.search(word);
-        }
+         dictionary.search(words);
     }
 }
