@@ -1,0 +1,2 @@
+module kadai_028 {
+}
